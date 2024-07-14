@@ -1,2 +1,2 @@
-# Android-Java-Projects
-Explore my Android Java projects, where innovation meets functionality! Dive into apps that showcase my passion for mobile development and commitment to mastering the Android SDK. Let's build cutting-edge solutions together!.
+# First Calculator Project
+This Android calculator app allows users to perform basic arithmetic operations (addition, subtraction, multiplication, division) on numbers displayed in a TextView. It features buttons for digits, decimal point, operators, and a clear button. The app uses event listeners (`OnClickListener`) to handle button clicks, updating the current input and performing calculations when the equal button is pressed. Error handling ensures that invalid inputs or operations are appropriately managed, displaying error messages in the TextView. It serves as a foundational project for learning Android development, demonstrating UI layout, event handling, and basic arithmetic operations in Java.
